@@ -1,2 +1,1 @@
-# pratica_git_flow
-practica de mineria de datos
+# Esta es la rama development...
